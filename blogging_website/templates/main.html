@@ -1,15 +1,90 @@
 {% load static %}
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+
+<!DOCTYPE html>
 <html>
-    <link>
-        <title>main_page</title>
-        <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}"/>
-    </head>
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta http-equiv="X-UA-Compatible" content="ie=edge">
+      <title>!NVITE</title>
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+      <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+   </head>
+   <body class="bg-info bg-dark">
+       <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+  <a class="navbar-brand" href="blog">!NVITE</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+      </li>
+
+    </ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li class="nav-item active"><a class="nav-link" href="login"><span class="glyphicon glyphicon-user"></span>Login</a></li>
+    <li class="nav-item active"><a class="nav-link" href="signup"><span class="glyphicon glyphicon-user"></span>Signup</a></li>
+
+    </ul>
+    </ul>
+  </div>
+</nav>
     <body>
-        <img id="img1" src="{% static 'images/123.jfif' %}" />
+    <div class="container">
+        <div class = "jumbotron mt-5 text-center">
+    <h1>!NVITE</h1>
+    <p>Home for bloggers</p>
+  </div>
+        <div class = "jumbotron mt-5 text-center">
+    <h1>Expand your reading</h1>
+        <h1>Expand your mind</h1>
+            <br>
         <div>
-            <button id="bt1"><a href="login/">login</a></button>
-            <br><br>
-            <button id="bt1"><a href="signup/">signup</a></button>
+    <a href="login" class="text-white"><button type="button" class="btn btn-primary btn-lg">Login</button></a>
+            <a href="signup" class="text-white"><button type="button" class="btn btn-primary btn-lg">Signup</button></a>
         </div>
+  </div>
+        <footer class="page-footer font-small pt-4 text-dark bg-light">
+  <br>
+    <div class="container-fluid text-center text-md-left">
+      <div class="row">
+        <div class="col-md-1">
+
+        </div>
+        <div class="col-md-6 mt-md-2 mt-3">
+          <h5 class="text-uppercase"> !NVITE</h5>
+          <p>Home for Bloggers</p>
+          <h5 class="text-uppercase"> Contact</h5>
+          <p> 1-800-900-700</p>
+          <h5 class="text-uppercase"> Email</h5>
+          <p> test@test.com</p>
+        </div>
+
+        <hr class="clearfix w-100 d-md-none pb-3">
+        <div class="col-md-3 mb-md-0 mb-3">
+            <h5 class="text-uppercase">Our Developers</h5>
+
+            <ul class="list-unstyled">
+              <li>Monish</li>
+              <li>Naveen</li>
+              <li>Goutham</li>
+            </ul>
+          </div>
+          </div>
+      </div>
+      <br>
+   </div>
+    <div class=" bg-dark text-light footer-copyright text-center py-3">© 2019 Copyright:
+      <a href="mailto:test@test.com" class="text-light"> test.com</a>
+    </div>
+    <br>
+  </footer>
+        </div>
+
     </body>
+
 </html>

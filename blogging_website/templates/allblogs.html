@@ -1,23 +1,107 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Bootstrap Example</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-</head>
-<body>
-
-<div class="container">
-  <h2>Titles of the blog</h2>
-  <div class="list-group">
-    {% for blog in blogs %}
-    <a href="{% url 'edit_profile' pk=blog.pk %}"  class="list-group-item"><h3>{{blog.title}}</h3><span><h3 style="color:blue">{{blog.name1}}</h3></span><span><h3 style="color:green">{{blog.count}}</h3></span><span><h3 style="color:red">{% if blog.spam %}SPAM!!{% endif %}</h3></span></a>
-    {% endfor %}
-  </div>
-</div>
-
 </body>
 </html>
+
+{% load static %}
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta http-equiv="X-UA-Compatible" content="ie=edge">
+      <title>blog_website</title>
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+      <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+   </head>
+   <body class="bg-info bg-dark text-white">
+       <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+  <a class="navbar-brand" href="">!NVITE</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="allblogs">Explore<span class="sr-only">(current)</span></a>
+      </li>
+
+    </ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li class="nav-item active"><a class="nav-link" href=""><span class="glyphicon glyphicon-user"></span>Home</a></li>
+      <li class="nav-item active"><a class="nav-link" href="contact"><span class="glyphicon glyphicon-user"></span>Contact</a></li>
+      <li class="nav-item active"><a class="nav-link" href="myblog"><span class="glyphicon glyphicon-user"></span>My Blogs</a></li>
+      <li class="nav-item active"><a class="nav-link" href="createblog"><span class="glyphicon glyphicon-user"></span>Create blog</a></li>
+    <li class="nav-item active"><a class="nav-link" href="/"><span class="glyphicon glyphicon-user"></span> Logout</a></li>
+
+    </ul>
+    </ul>
+  </div>
+</nav>
+
+    <br><br><br>
+    <div class="container">
+        <h2 align="center">Explore</h2>
+      <br>
+  <div class="list-group">
+    {% for blog in blogs %}
+      <a href="{% url 'edit_profile' pk=blog.pk %}"  class="list-group-item">
+<div class="card mt-5 bg-light">
+    <div class="card-header">
+      <h2 class="text-body">{{blog.title}}</h2>
+        <h4 class="text-dark">Author: {{blog.name1}}</h4><span class="badge">Likes: {{blog.count}}</span>
+    </div>
+    <div class="card-body">
+        {% if blog.spam %}<div class="alert alert-danger">Our systems detected this as SPAM</div>{% endif %}
+    </div>
+</div>
+      </a>
+    <br>
+    {% endfor %}
+  </div>
+
+  <br><br>
+                    <footer class="page-footer font-small pt-4 text-dark bg-light">
+  <br>
+    <div class="container-fluid text-center text-md-left">
+      <div class="row">
+        <div class="col-md-1">
+
+        </div>
+        <div class="col-md-6 mt-md-2 mt-3">
+          <h5 class="text-uppercase"> !NVITE</h5>
+          <p>Home for Bloggers</p>
+          <h5 class="text-uppercase"> Contact</h5>
+          <p> 1-800-900-700</p>
+          <h5 class="text-uppercase"> Email</h5>
+          <p> test@test.com</p>
+        </div>
+
+        <hr class="clearfix w-100 d-md-none pb-3">
+        <div class="col-md-3 mb-md-0 mb-3">
+            <h5 class="text-uppercase">Our Developers</h5>
+
+            <ul class="list-unstyled">
+              <li>Monish</li>
+              <li>Naveen</li>
+              <li>Goutham</li>
+            </ul>
+          </div>
+          </div>
+      </div>
+      <br>
+   </div>
+    <div class=" bg-dark text-light footer-copyright text-center py-3">© 2019 Copyright:
+      <a href="mailto:test@test.com" class="text-light"> test.com</a>
+    </div>
+    <br>
+  </footer>
+        </div>
+
+    </body>
+
+</html>
+

@@ -1,26 +1,101 @@
+
+
+{% load static %}
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+
+<!DOCTYPE html>
 <html>
-    <head>
-        <title>{{post.title}}</title>
-    </head>
-    <style>
-        input{
-            height:50px;
-            width:100%;
-            background-color:aqua;
-        }
-        button{
-            height:50px;
-            width:100%;
-            background-color:aqua;
-        }
-    </style>
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta http-equiv="X-UA-Compatible" content="ie=edge">
+      <title>blog_website</title>
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+      <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+   </head>
+   <body class="bg-info bg-dark">
+       <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+  <a class="navbar-brand" href="">!NVITE</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="/blog/allblogs">Explore<span class="sr-only">(current)</span></a>
+      </li>
+
+    </ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li class="nav-item active"><a class="nav-link" href=""><span class="glyphicon glyphicon-user"></span>Home</a></li>
+      <li class="nav-item active"><a class="nav-link" href="../../contact"><span class="glyphicon glyphicon-user"></span>Contact</a></li>
+      <li class="nav-item active"><a class="nav-link" href="../../myblog"><span class="glyphicon glyphicon-user"></span>My Blogs</a></li>
+      <li class="nav-item active"><a class="nav-link" href="../../createblog"><span class="glyphicon glyphicon-user"></span>Create blog</a></li>
+    <li class="nav-item active"><a class="nav-link" href="/"><span class="glyphicon glyphicon-user"></span> Logout</a></li>
+
+    </ul>
+    </ul>
+  </div>
+</nav>
     <body>
-        <h1>{{post.title}}</h1>
-        <p>{{post.description}}</p>
-        <form action="" method="post">
-            {% csrf_token %}
-            <input type="submit" name="submit" value="like"/>
-        </form>
-        <button><a href="comments">Comment</a></button>
+    <div class="container">
+      <div class="card mt-5 bg-light">
+    <div class="card-header">
+      <h2>{{post.title}}</h2>
+    </div>
+    <div class="card-body">
+        {{post.description}}
+        <form action = "" method="post">
+        {% csrf_token %}
+        <div class="form-group">
+          <br><input class="btn btn-primary" type="submit" name="submit" value="Like"/>
+        </div>
+      </form>
+          <a href="comments"><button class="btn btn-primary">Comment</button></a>
+    </div>
+
+  </div>
+  <br><br>
+                    <footer class="page-footer font-small pt-4 text-dark bg-light">
+  <br>
+    <div class="container-fluid text-center text-md-left">
+      <div class="row">
+        <div class="col-md-1">
+
+        </div>
+        <div class="col-md-6 mt-md-2 mt-3">
+          <h5 class="text-uppercase"> !NVITE</h5>
+          <p>Home for Bloggers</p>
+          <h5 class="text-uppercase"> Contact</h5>
+          <p> 1-800-900-700</p>
+          <h5 class="text-uppercase"> Email</h5>
+          <p> test@test.com</p>
+        </div>
+
+        <hr class="clearfix w-100 d-md-none pb-3">
+        <div class="col-md-3 mb-md-0 mb-3">
+            <h5 class="text-uppercase">Our Developers</h5>
+
+            <ul class="list-unstyled">
+              <li>Monish</li>
+              <li>Naveen</li>
+              <li>Goutham</li>
+            </ul>
+          </div>
+          </div>
+      </div>
+      <br>
+   </div>
+    <div class=" bg-dark text-light footer-copyright text-center py-3">© 2019 Copyright:
+      <a href="mailto:test@test.com" class="text-light"> test.com</a>
+    </div>
+    <br>
+  </footer>
+        </div>
+
     </body>
+
 </html>
