@@ -34,10 +34,12 @@ class PythonTests(unittest.TestCase):
 
     def test_create_blog(self):
         self.create_blog("Blog by Selenium", "Selenium for system testing")
+        time.sleep(1)
         self.assertIn("selenium", self.driver.current_url)
 
         my_blog_link = self.driver.find_element_by_link_text("My Blogs")
         my_blog_link.click()
+        time.sleep(1)
         self.assertIn("/myblog", self.driver.current_url)
 
         created_blog_title = self.driver.find_elements_by_tag_name("h2")[-1].text
@@ -59,7 +61,7 @@ class PythonTests(unittest.TestCase):
         self.driver.back()
         self.driver.back()
         self.driver.refresh()
-
+        time.sleep(1)
         likes_field = self.driver.find_element_by_class_name("badge")
         curr_likes = int(likes_field.text[7:])
         self.assertEqual(prev_likes, curr_likes-1)
@@ -81,6 +83,7 @@ class PythonTests(unittest.TestCase):
 
         explore_link = self.driver.find_element_by_link_text("Explore")
         explore_link.click()
+        time.sleep(1)
         self.assertIn("/allblogs", self.driver.current_url)
 
         created_blog_link = self.driver.find_elements_by_class_name("list-group-item")[-1]
@@ -104,7 +107,7 @@ class PythonTests(unittest.TestCase):
         self.driver.get("http://127.0.0.1:8000")
         signup_btn = self.driver.find_element_by_link_text("Signup")
         signup_btn.click()
-
+        time.sleep(1)
         self.assertIn("login_page", self.driver.title)
 
         email_field = self.driver.find_element_by_name("email")
@@ -124,6 +127,7 @@ class PythonTests(unittest.TestCase):
 
         create_blog_link = self.driver.find_element_by_link_text("Create blog")
         create_blog_link.click()
+        time.sleep(1)
         self.assertIn("/createblog", self.driver.current_url)
 
         blog_title_field = self.driver.find_element_by_name("title")
@@ -142,6 +146,7 @@ class PythonTests(unittest.TestCase):
 
         explore_link = self.driver.find_element_by_link_text("Explore")
         explore_link.click()
+        time.sleep(1)
         self.assertIn("/allblogs", self.driver.current_url)
 
         likes_field = self.driver.find_element_by_class_name("badge")
