@@ -1,0 +1,1063 @@
+1590496244499	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileedHjQd"
+1590496246016	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590496246967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590496246967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590496246967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590496246967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590496253815	Marionette	INFO	Listening on port 50427
+1590496253953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590496278210	Marionette	INFO	Stopped listening on port 50427
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590496986252	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofilee0PBBy"
+1590496987099	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590496988060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590496988060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590496988060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590496988060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590496993839	Marionette	INFO	Listening on port 50827
+1590496994094	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590497026524	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileYFI7Ll"
+1590497027338	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590497028364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590497028364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590497028364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590497028365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590497033910	Marionette	INFO	Listening on port 50896
+1590497034364	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590497035985	Marionette	INFO	Stopped listening on port 50896
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590497052922	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileg8qz1o"
+1590497053759	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590497054711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590497054711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590497054711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590497054712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590497060230	Marionette	INFO	Listening on port 50961
+1590497060270	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590497061726	Marionette	INFO	Stopped listening on port 50961
+[Parent 5756, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590497277732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofilecBF1sG"
+1590497278595	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590497279564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590497279565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590497279565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590497279565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590497285078	Marionette	INFO	Listening on port 51140
+1590497285558	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590497298475	Marionette	INFO	Stopped listening on port 51140
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590497518090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileM3AcB7"
+1590497518932	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590497519860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590497519860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590497519861	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590497519861	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590497525613	Marionette	INFO	Listening on port 51337
+1590497525929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 196}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 196}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1590497584192	Marionette	INFO	Stopped listening on port 51337
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590497718844	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileKckkUN"
+1590497719723	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590497720645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590497720645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590497720645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590497720646	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590497726393	Marionette	INFO	Listening on port 51501
+1590497726717	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590498361896	Marionette	INFO	Stopped listening on port 51501
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590497832366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590497832366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590497832366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590497832367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590497838196	Marionette	INFO	Listening on port 51622
+1590497838403	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590497843989	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-f1590497873600	Marionette	INFO	Stopped listening on port 51622
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+a.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590497845760	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590497845760	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590497845761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590497845761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590497851782	Marionette	INFO	Listening on port 51689
+1590497851817	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590497872155	Marionette	INFO	Stopped listening on port 51689
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590498368102	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileE7xZZn"
+1590498368961	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590498369923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590498369923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590498369923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590498369924	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590498375530	Marionette	INFO	Listening on port 52028
+1590498375937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590498383439	Marionette	INFO	Stopped listening on port 52028
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590498388655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofile06S2cY"
+1590498389421	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590498390383	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590498390383	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590498390384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590498390384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590498396127	Marionette	INFO	Listening on port 52097
+1590498396482	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590498415239	Marionette	INFO	Stopped listening on port 52097
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590498882325	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileElEHFL"
+1590498883198	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590498884130	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590498884131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590498884131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590498884131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590498889865	Marionette	INFO	Listening on port 52269
+1590498890170	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590498897008	Marionette	INFO	Stopped listening on port 52269
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590498902207	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileHmpvCm"
+1590498903071	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590498904027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590498904028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590498904028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590498904028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590498909579	Marionette	INFO	Listening on port 52328
+1590498910050	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 94: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590498920446	Marionette	INFO	Stopped listening on port 52328
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590499061119	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofilexdU5J6"
+1590499061887	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590499062860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590499062860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590499062860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590499062861	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590499068414	Marionette	INFO	Listening on port 52397
+1590499068462	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590499075282	Marionette	INFO	Stopped listening on port 52397
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590499080427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofilefBphtg"
+1590499081297	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590499082288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590499082288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590499082289	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590499082289	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590499087972	Marionette	INFO	Listening on port 52454
+1590499088298	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 94: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590499105727	Marionette	INFO	Stopped listening on port 52454
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590499154767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileK3cr67"
+1590499155576	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590499156514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590499156514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590499156515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590499156515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590499162076	Marionette	INFO	Listening on port 52527
+1590499162112	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590499169549	Marionette	INFO	Stopped listening on port 52527
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590499174717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileXhKl7a"
+1590499175585	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590499176544	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590499176544	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590499176544	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590499176544	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590499182120	Marionette	INFO	Listening on port 52586
+1590499182549	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590499191425	Marionette	INFO	Stopped listening on port 52586
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590499537486	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofile49LEaI"
+1590499538378	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590499539341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590499539341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590499539341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590499539341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590499544886	Marionette	INFO	Listening on port 52703
+1590499545311	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590499552258	Marionette	INFO	Stopped listening on port 52703
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590499741652	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofile9osxVj"
+1590499742492	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590499743395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590499743396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590499743396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590499743396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590499748894	Marionette	INFO	Listening on port 52768
+1590499748997	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590499760743	Marionette	INFO	Stopped listening on port 52768
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590499837381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileXErBQm"
+1590499838091	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590499839045	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590499839045	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590499839046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590499839046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590499844603	Marionette	INFO	Listening on port 52839
+1590499844728	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590499851785	Marionette	INFO	Stopped listening on port 52839
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590500085526	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofilew9F0S4"
+1590500086289	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590500087270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590500087270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590500087270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590500087270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590500093374	Marionette	INFO	Listening on port 53010
+1590500093879	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590500103876	Marionette	INFO	Stopped listening on port 53010
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590500120573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofile6RMBrb"
+1590500121450	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590500122433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590500122433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590500122433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590500122433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590500128017	Marionette	INFO	Listening on port 53090
+1590500128410	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590500138294	Marionette	INFO	Stopped listening on port 53090
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590500158925	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileUfhRP3"
+1590500159799	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590500160773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590500160773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590500160773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590500160774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590500166449	Marionette	INFO	Listening on port 53167
+1590500166771	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590500174474	Marionette	INFO	Stopped listening on port 53167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590500201977	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofilewzkKKF"
+1590500202736	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590500203705	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590500203705	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590500203705	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590500203705	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590500209315	Marionette	INFO	Listening on port 53247
+1590500209805	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590500213209	Marionette	INFO	Stopped listening on port 53247
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590500228113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileCqHPwm"
+1590500228869	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590500229831	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590500229831	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590500229832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590500229832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590500235499	Marionette	INFO	Listening on port 53319
+1590500235951	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590500237942	Marionette	INFO	Stopped listening on port 53319
+[Parent 17160, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590500274321	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileFPQR0x"
+1590500275125	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590500276072	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590500276072	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590500276073	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590500276073	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590500281643	Marionette	INFO	Listening on port 53408
+1590500281672	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590500295558	Marionette	INFO	Stopped listening on port 53408
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590500318308	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileau2LJQ"
+1590500319157	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590500320097	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590500320097	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590500320097	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590500320097	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590500325764	Marionette	INFO	Listening on port 53487
+1590500326154	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590500328024	Marionette	INFO	Stopped listening on port 53487
+[Parent 6168, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590501774045	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileUDmgwY"
+1590501774812	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590501775787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590501775788	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590501775788	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590501775788	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590501781733	Marionette	INFO	Listening on port 54170
+1590501781876	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590501785654	Marionette	INFO	Stopped listening on port 54170
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590501819368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileDrkKv5"
+1590501820233	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590501821160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590501821160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590501821160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590501821161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590501826799	Marionette	INFO	Listening on port 54250
+1590501827219	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590501830562	Marionette	INFO	Stopped listening on port 54250
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590501844012	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofilei6KVuH"
+1590501844846	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590501845810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590501845810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590501845810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590501845810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590501851472	Marionette	INFO	Listening on port 54322
+1590501851857	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590501855036	Marionette	INFO	Stopped listening on port 54322
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590502223867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofile5GJWbl"
+1590502224644	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590502225616	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590502225616	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590502225617	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590502225617	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590502231271	Marionette	INFO	Listening on port 54567
+1590502231696	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590502243231	Marionette	INFO	Stopped listening on port 54567
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590502248363	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileqLMgN8"
+1590502249247	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590502250213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590502250213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590502250214	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590502250214	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590502255906	Marionette	INFO	Listening on port 54641
+1590502256218	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590502259060	Marionette	INFO	Stopped listening on port 54641
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590502313423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofile2jFiyX"
+1590502314286	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590502315256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590502315256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590502315256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590502315257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590502321166	Marionette	INFO	Listening on port 54730
+1590502321270	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590502326557	Marionette	INFO	Stopped listening on port 54730
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590502331767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileRrvdgq"
+1590502332600	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590502333563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590502333563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590502333563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590502333564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590502339221	Marionette	INFO	Listening on port 54797
+1590502339617	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590502342556	Marionette	INFO	Stopped listening on port 54797
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590502430505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileiZ28b3"
+1590502431312	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590502432282	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590502432283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590502432283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590502432283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590502437875	Marionette	INFO	Listening on port 54924
+1590502438358	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590502441953	Marionette	INFO	Stopped listening on port 54924
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590502447095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileNnX1uj"
+1590502447992	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590502449031	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590502449031	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590502449031	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590502449031	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590502484942	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileqAcpFd"
+1590502485808	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590502486789	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590502486789	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590502486789	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590502486789	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590502492395	Marionette	INFO	Listening on port 55030
+1590502492766	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590502496750	Marionette	INFO	Stopped listening on port 55030
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590502501944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileTBNukG"
+1590502502760	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590502503783	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590502503783	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590502503783	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590502503784	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590502509521	Marionette	INFO	Listening on port 55095
+1590502509773	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590502512689	Marionette	INFO	Stopped listening on port 55095
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590680520658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofile7hvZCF"
+1590680522138	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590680523074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590680523074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590680523074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590680523074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590680529671	Marionette	INFO	Listening on port 50684
+1590680530105	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590680531938	Marionette	INFO	Stopped listening on port 50684
+[Parent 9940, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590680630258	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileCfwNT0"
+1590680631117	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590680632055	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590680632056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590680632056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590680632056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590680638112	Marionette	INFO	Listening on port 50866
+1590680638616	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590680641728	Marionette	INFO	Stopped listening on port 50866
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590680816855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofilef9YFUt"
+1590680817672	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590680818579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590680818579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590680818579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590680818579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590680824590	Marionette	INFO	Listening on port 51058
+1590680824678	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590680828259	Marionette	INFO	Stopped listening on port 51058
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590680929751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofile3R8hUf"
+1590680930535	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590680931501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590680931501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590680931501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590680931501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590680937617	Marionette	INFO	Listening on port 51187
+1590680938091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590680942572	Marionette	INFO	Stopped listening on port 51187
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590681116782	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileLJ8EKD"
+1590681117609	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590681118593	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590681118593	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590681118593	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590681118593	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590681124626	Marionette	INFO	Listening on port 51378
+1590681125127	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590681133318	Marionette	INFO	Stopped listening on port 51378
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590681416912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileG6vreH"
+1590681417757	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590681418734	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590681418734	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590681418734	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590681418734	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590681424833	Marionette	INFO	Listening on port 51651
+1590681425261	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590681434629	Marionette	INFO	Stopped listening on port 51651
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590682006204	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofile8s0fd9"
+1590682007067	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590682008022	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590682008023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590682008023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590682008023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590682014152	Marionette	INFO	Listening on port 52035
+1590682014543	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590682021291	Marionette	INFO	Stopped listening on port 52035
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590682042621	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileau0B6W"
+1590682043449	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590682044429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590682044429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590682044430	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590682044430	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590682050349	Marionette	INFO	Listening on port 52127
+1590682050451	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590682057687	Marionette	INFO	Stopped listening on port 52127
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590682330222	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileWI6fqh"
+1590682331064	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590682332026	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590682332027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590682332027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590682332027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590682338010	Marionette	INFO	Listening on port 52358
+1590682338053	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590682343618	Marionette	INFO	Stopped listening on port 52358
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590682786574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileqt8cmy"
+1590682787378	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590682788347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590682788347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590682788348	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590682788348	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590682794624	Marionette	INFO	Listening on port 52651
+1590682794918	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590682800392	Marionette	INFO	Stopped listening on port 52651
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590682805602	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileH72cWf"
+1590682806464	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590682807422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590682807422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590682807423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590682807423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590682813380	Marionette	INFO	Listening on port 52717
+1590682813446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590682820589	Marionette	INFO	Stopped listening on port 52717
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590682845781	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofile3ycX7O"
+1590682846578	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590682847497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590682847497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590682847497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590682847498	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590682853797	Marionette	INFO	Listening on port 52796
+1590682854132	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590682859922	Marionette	INFO	Stopped listening on port 52796
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590682886301	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileZzNw68"
+1590682887175	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590682888143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590682888144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590682888144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590682888144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590682894026	Marionette	INFO	Listening on port 52876
+1590682894125	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590682899953	Marionette	INFO	Stopped listening on port 52876
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590683036704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileM3OEuq"
+1590683037596	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590683038578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590683038578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590683038578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590683038579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590683044614	Marionette	INFO	Listening on port 53017
+1590683045060	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590683052748	Marionette	INFO	Stopped listening on port 53017
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590683119724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofile7h1mge"
+1590683120572	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590683121479	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590683121479	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590683121479	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590683121479	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590683127528	Marionette	INFO	Listening on port 53124
+1590683127576	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590683134755	Marionette	INFO	Stopped listening on port 53124
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590683324269	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofile9JKr7t"
+1590683325105	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590683326059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590683326059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590683326059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590683326059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590683331957	Marionette	INFO	Listening on port 53321
+1590683332106	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590683347592	Marionette	INFO	Stopped listening on port 53321
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590683744844	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileiaJYne"
+1590683745734	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590683746639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590683746639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590683746639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590683746639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590683752595	Marionette	INFO	Listening on port 53453
+1590683752679	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590683759615	Marionette	INFO	Stopped listening on port 53453
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590683764772	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofileuJF4Zy"
+1590683765646	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590683766660	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590683766660	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590683766661	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590683766661	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590683772764	Marionette	INFO	Listening on port 53508
+1590683773108	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590683773168	Marionette	INFO	Stopped listening on port 53508
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590683958613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofilemZxdCu"
+1590683959497	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590683960445	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590683960445	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590683960445	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590683960445	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590683966421	Marionette	INFO	Listening on port 53648
+1590683966470	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js, line 6: TypeError: i is undefined
+1590683971219	Marionette	INFO	Stopped listening on port 53648
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590723529581	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gouth\\AppData\\Local\\Temp\\rust_mozprofile8bBLqk"
+1590723530337	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590723531287	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590723531287	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590723531287	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590723531287	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590723537390	Marionette	INFO	Listening on port 54126
+1590723537428	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590723540038	Marionette	INFO	Stopped listening on port 54126
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
